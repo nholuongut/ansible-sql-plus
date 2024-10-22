@@ -1,0 +1,10 @@
+---
+- include: download.yml
+
+- include: verify.yml
+
+- include: prepare.yml
+
+- include: install.yml
+
+- include: configure.yml

@@ -1,0 +1,6 @@
+---
+
+deb:
+  depends_packages:
+    - 'libaio1'
+    - 'alien'
